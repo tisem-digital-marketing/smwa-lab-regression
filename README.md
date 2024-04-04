@@ -1,14 +1,14 @@
-# Social Media and Web Analytics: Lab 2
+# Social Media and Web Analytics Lab: Regression
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![lifecycle](https://img.shields.io/badge/version-2023-red.svg)]()
+[![lifecycle](https://img.shields.io/badge/version-2024-red.svg)]()
 
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2023-smwa)
+* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2024-smwa)
 * Institute: Dept of Marketing, Tilburg University
-* Current Version: [2023 edition](https://tisem-digital-marketing.github.io/2023-smwa)
+* Current Version: [2024 edition](https://tisem-digital-marketing.github.io/2024-smwa)
 
 ## Instructions for Students
 
@@ -25,11 +25,11 @@ $ cd your/path/to/smwa-material
 3. Clone a copy of this repository:
 
 ```{bash, eval = FALSE}
-git clone https://github.com/tisem-digital-marketing/smwa-lab-02.git
+git clone https://github.com/tisem-digital-marketing/2024-smwa-lab-regression.git
 ```
 
 Once you have cloned the files, open the cloned repository in RStudio as an RStudio project and work through the questions.
-One way to do this is by clicking on `smwa-lab-02.Rproj` which should launch an RStudio session on your machine with this directory as the project folder.
+
 
 ## License
 
@@ -37,13 +37,13 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Suggested Citation
 
-Deer, Lachlan. 2023. Social Media and Web Analytics: Lab 2 - Multiple Regression in the Wild. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-lab-02"
+Deer, Lachlan. 2024. Social Media and Web Analytics Lab 2: Regression. Tilburg University. url = "https://github.com/deer-marketing-lab/smwa-lab-regression"
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa-lab02-2023,
-      title={"Social Media and Web Analytics: Lab 2 - Multiple Regression in the Wild"},
+@misc{smwa-lab-regression,
+      title={"Social Media and Web Analytics Lab: Regression"},
       author={Lachlan Deer},
-      year={2023},
-      url = "https://github.com/tisem-digital-marketing/smwa-lab-02"
+      year={2024},
+      url = "https://github.com/deer-marketing-lab/smwa-lab-regression"
 }
 ```
