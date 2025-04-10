@@ -41,6 +41,35 @@ The goal of the tutorials is to explore how to "do" the technical side of social
 Use this as an opportunity to push your limits and develop new skills.
 When you are uncertain or do not know what to do next - ask questions of your peers and the instructors on the class Slack workspace.
 
+## From the Lecture: Why do People Contribute to Twitter
+
+Read the paper "[Intrinsic vs. Image-Related Utility in Social Media: Why Do People Contribute Content to Twitter?](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2013.0773)" and answer the following questions:
+
+1. What is the research question?
+
+Write your answer here
+
+2. What is the research design?
+
+Write your answer here
+
+3. Why is this a "Good" question?
+
+Write your answer here
+
+4. Explain the two reasons a Twitter user wants to post according to the authors.
+
+Write your answer here
+
+5. What variation in the data do the authors use to answer research question?
+
+Write your answer here
+
+6. Why couldn't the authors have used an existing dataset that contains usernames, follower counts and post behaviour to answer their research question?
+
+Write your answer here
+
+
 ## Regression Analysis in the Wild
 
 The advent of the internet, and the rise in user generated content has had a large effect on sex markets.
